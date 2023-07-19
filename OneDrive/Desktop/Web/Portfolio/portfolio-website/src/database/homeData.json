@@ -1,0 +1,49 @@
+{
+  "homeInfo": [
+    {
+      "title": "Hello, I am",
+      "bio": "Michel Baydakov",
+      "description": "Experienced Front-end developer in web development of weboriented applications for small and large enterprises. Have a solid understanding and knowledge of the objectoriented approach, software engineering principles and concepts."
+    }
+  ],
+  "socialMedia": [
+    {
+      "name": "telegram",
+      "link": ""
+    },
+    {
+      "name": "linkedin",
+      "link": ""
+    },
+    {
+      "name": "github",
+      "link": ""
+    },
+    {
+      "name": "instagram-alt",
+      "link": ""
+    }
+  ],
+  "circleInfo": [
+    {
+      "title": "Web Developer",
+      "icon": "code-alt",
+      "i": "0"
+    },
+    {
+      "title": "Web Developer",
+      "icon": "code-alt",
+      "i": "1"
+    },
+    {
+      "title": "Web Developer",
+      "icon": "code-alt",
+      "i": "2"
+    },
+    {
+      "title": "Web Developer",
+      "icon": "code-alt",
+      "i": "3"
+    }
+  ]
+}

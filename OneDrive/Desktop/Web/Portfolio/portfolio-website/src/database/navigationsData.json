@@ -1,0 +1,24 @@
+{
+  "navigations": [
+    {
+      "title": "Home",
+      "path": "home"
+    },
+    {
+      "title": "About",
+      "path": "about"
+    },
+    {
+      "title": "Services",
+      "path": "services"
+    },
+    {
+      "title": "Portfolio",
+      "path": "portfolio"
+    },
+    {
+      "title": "Contact",
+      "path": "contact"
+    }
+  ]
+}
